@@ -1,3 +1,5 @@
+<img width="2650" height="1568" alt="arquivo" src="https://github.com/user-attachments/assets/c7f3a8b5-a0be-4853-a57f-4a591608bcd3" />
+
 # 👩🏻‍💻 Maria Eduarda Marques
 
 **`Desenvolvedora Front-end`**
