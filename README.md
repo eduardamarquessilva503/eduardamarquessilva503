@@ -18,9 +18,7 @@ ________________________________________________________________________________
 ## 📊 Estatísticas  
 
 <p align="center">
-  <username=eduardamarquessilva503&show_icons=true&theme=radical&hide_border=true"/>
-  username=eduardamarquessilva503&layout=compact&theme=radical&hide_border=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardamarquessilva503&theme=radical&hide_border=true"/>
