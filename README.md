@@ -1,43 +1,23 @@
-# 👩🏻‍💻 Maria Eduarda Marques
+# Maria eduarda marques da silva 
 
 **`Desenvolvedora Front-end`**
 
 Me chamo Maria Eduarda Marques, tenho 19 anos e sou natural de Recife. Concluí o ensino médio no IFPE, com o curso técnico em informática para internet. Busco minha primeira oportunidade profissional para aplicar na prática o que venho aprendendo e continuar evoluindo na área de tecnologia.
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/eduarda-marques-869a68392/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/eduardamarquessilva503">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/eduardamarquessilva503?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 
 
 ## 📫 Contato  
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/SEUNUMERO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEULINK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEULINK)
+[![Gmail](https://mail.google.com/mail/u/0/#inbox)
+[![WhatsApp](+55 81 9831-2392)
+[![LinkedIn](https://www.linkedin.com/in/eduarda-marques-869a68392/)
 
 ---
 
 ## 📊 Estatísticas  
 
-![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
-
+<img src="https://github-readme-stats.vercel.app/api?username=eduardamarquessilva503&show_icons=true&theme=radical"/>
 ---
 
 ## 🧠 Tecnologias e Ferramentas  
@@ -62,3 +42,5 @@ Me chamo Maria Eduarda Marques, tenho 19 anos e sou natural de Recife. Concluí 
 🔌 APIs e integrações
 🖥️ Linux e infraestrutura
 ⚛️ React
+
+Gosto de desenvolver projetos que resolvem problemas reais, principalmente voltados para acessibilidade, automação e experiências web bem construídas.
