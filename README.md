@@ -18,8 +18,8 @@ ________________________________________________________________________________
 ## 📊 Estatísticas  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=eduardamarquessilva503&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardamarquessilva503&layout=compact&theme=radical&hide_border=true"/>
+  <username=eduardamarquessilva503&show_icons=true&theme=radical&hide_border=true"/>
+  username=eduardamarquessilva503&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ ________________________________________________________________________________
 ☁️ python
 🔌 APIs e integrações
 🖥️ Linux e infraestrutura
-⚛️ React
+⚛️ React Avançado
 
 
 
