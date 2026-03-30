@@ -9,14 +9,21 @@ Me chamo Maria Eduarda Marques, tenho 19 anos e sou natural de Recife. Concluí 
 
 ## 📫 Contato  
 
-[![LinkedIn](https://www.linkedin.com/in/eduarda-marques-869a68392/)
-
+<a href="https://www.linkedin.com/in/eduarda-marques-869a68392/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 ---
 
 ## 📊 Estatísticas  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/eduardamarquessilva503=compact&theme=radical"/>
----
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=eduardamarquessilva503&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardamarquessilva503&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardamarquessilva503&theme=radical&hide_border=true"/>
+</p>
 
 ## 🧠 Tecnologias e Ferramentas  
 
