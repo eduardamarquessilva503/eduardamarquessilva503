@@ -12,7 +12,8 @@ Me chamo Maria Eduarda Marques, tenho 19 anos e sou natural de Recife. Concluí 
 <a href="https://www.linkedin.com/in/eduarda-marques-869a68392/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
----
+
+__________________________________________________________________________________________________________________________________________
 
 ## 📊 Estatísticas  
 
@@ -24,6 +25,7 @@ Me chamo Maria Eduarda Marques, tenho 19 anos e sou natural de Recife. Concluí 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardamarquessilva503&theme=radical&hide_border=true"/>
 </p>
+
 
 ## 🧠 Tecnologias e Ferramentas  
 
@@ -39,7 +41,7 @@ Me chamo Maria Eduarda Marques, tenho 19 anos e sou natural de Recife. Concluí 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+__________________________________________________________________________________________________________________________________________
 
 ### Atualmente estudando
 
@@ -47,6 +49,8 @@ Me chamo Maria Eduarda Marques, tenho 19 anos e sou natural de Recife. Concluí 
 🔌 APIs e integrações
 🖥️ Linux e infraestrutura
 ⚛️ React
+
+
 
 ⚡curiosidade
 Gosto de desenvolver projetos que resolvem problemas reais, principalmente voltados para acessibilidade, automação e experiências web bem construídas.
