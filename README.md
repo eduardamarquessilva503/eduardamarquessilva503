@@ -1,117 +1,117 @@
-# 👩🏻‍💻 Maria Eduarda Marques
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8A2BE2&height=200&section=header&text=Maria%20Eduarda%20Marques&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-**`Desenvolvedora Front-end`**
-
-Me chamo Maria Eduarda Marques, tenho 19 anos e sou natural de Recife. Concluí o ensino médio no IFPE, com o curso técnico em informática para internet. Busco minha primeira oportunidade profissional para aplicar na prática o que venho aprendendo e continuar evoluindo na área de tecnologia.
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/eduarda-marques-869a68392/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/eduardamarquessilva503">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/eduardamarquessilva503?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=700&lines=Desenvolvedora+Front-end;Focada+em+Infraestrutura+e+Cloud;Construindo+projetos+reais🚀"/>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+# 👩🏻‍💻 Maria Eduarda Marques  
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+**`Desenvolvedora Front-end`**  
 
-<br/>
-<br/>
+Me chamo Maria Eduarda Marques, tenho 19 anos e sou natural de Recife.  
+Concluí o ensino médio no IFPE, com o curso técnico em informática para internet.  
 
-### 📊 Estatísticas
+💡 Busco minha primeira oportunidade profissional para aplicar na prática o que venho aprendendo e continuar evoluindo na área de tecnologia.  
+
+---
+
+## 🌐 Conecte-se comigo  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduarda-marques-869a68392/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/eduardamarquessilva503">
+    <img src="https://img.shields.io/github/followers/eduardamarquessilva503?style=for-the-badge&logo=github&label=Seguidores&color=blue"/>
+  </a>
+</p>
+
+---
 
 ## 📫 Contato  
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/SEUNUMERO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEULINK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEULINK)
+<p align="center">
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/SEUNUMERO">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eduarda-marques-869a68392/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 Estatísticas  
 
-![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardamarquessilva503&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardamarquessilva503&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
-## 🧠 Tecnologias e Ferramentas  
+## 🔥 Sequência de Contribuições  
 
-### 💻 Front-end  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardamarquessilva503&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
-### ⚙️ Back-end / Outros  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![API](https://img.shields.io/badge/APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🧠 Tecnologias  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,linux,git,github,vscode" />
+</p>
 
 ---
 
-### 🛠️ Infraestrutura  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Redes](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white)
+## 🚀 Em aprendizado  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,aws" />
+</p>
+
+- 🔌 APIs e integrações  
+- 🖥️ Linux e infraestrutura  
+- ⚛️ React avançado  
+
+---
+
+## 🎯 Objetivo  
+
+Busco minha primeira oportunidade como Desenvolvedora Júnior, com foco em front-end, infraestrutura ou cloud, onde eu possa evoluir tecnicamente e contribuir com soluções reais.  
+
+---
+
+## ⚡ Diferenciais  
+
+💡 Formação técnica em informática  
+🚀 Foco em aprendizado contínuo  
+🧠 Interesse em infraestrutura e cloud  
+💻 Experiência com projetos práticos  
+
+---
+
+## 👀 Visitas  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eduardamarquessilva503&color=red"/>
+</p>
+
+---
+
+## 🐍 Snake Game (Contribuições)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eduardamarquessilva503/eduardamarquessilva503/output/github-contribution-grid-snake.svg"/>
+</p>
