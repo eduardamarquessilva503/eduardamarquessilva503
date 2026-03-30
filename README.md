@@ -3,7 +3,7 @@
 **`Desenvolvedora Front-end`**
 
 Me chamo Maria Eduarda Marques, tenho 19 anos e sou natural de Recife. Concluí o ensino médio no IFPE, com o curso técnico em informática para internet. Busco minha primeira oportunidade profissional para aplicar na prática o que venho aprendendo e continuar evoluindo na área de tecnologia.
----
+___________________________________________________________________________________________________________________________________________
 
 ### 
 
