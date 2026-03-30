@@ -5,9 +5,8 @@
 Me chamo Maria Eduarda Marques, tenho 19 anos e sou natural de Recife. Concluí o ensino médio no IFPE, com o curso técnico em informática para internet. Busco minha primeira oportunidade profissional para aplicar na prática o que venho aprendendo e continuar evoluindo na área de tecnologia.
 ___________________________________________________________________________________________________________________________________________
 
-### 
 
-## 📫 Contato  
+ 📫 Contato  
 
 <a href="https://www.linkedin.com/in/eduarda-marques-869a68392/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,7 +14,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________
 
-## 📊 Estatísticas  
+📊 Estatísticas  
 
 <p align="center">
 
