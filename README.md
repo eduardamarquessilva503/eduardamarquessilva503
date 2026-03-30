@@ -9,15 +9,13 @@ Me chamo Maria Eduarda Marques, tenho 19 anos e sou natural de Recife. Concluí 
 
 ## 📫 Contato  
 
-[![Gmail](https://mail.google.com/mail/u/0/#inbox)
-[![WhatsApp](+55 81 9831-2392)
 [![LinkedIn](https://www.linkedin.com/in/eduarda-marques-869a68392/)
 
 ---
 
 ## 📊 Estatísticas  
 
-<img src="https://github-readme-stats.vercel.app/api?username=eduardamarquessilva503&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/eduardamarquessilva503=compact&theme=radical"/>
 ---
 
 ## 🧠 Tecnologias e Ferramentas  
@@ -43,4 +41,5 @@ Me chamo Maria Eduarda Marques, tenho 19 anos e sou natural de Recife. Concluí 
 🖥️ Linux e infraestrutura
 ⚛️ React
 
+⚡curiosidade
 Gosto de desenvolver projetos que resolvem problemas reais, principalmente voltados para acessibilidade, automação e experiências web bem construídas.
