@@ -1,6 +1,6 @@
 # Maria Eduarda Marques da Silva
 
-**`Desenvolvedora Full Stack | Front-end`**
+**`Desenvolvedora Full Stack |**
 
 Me chamo Maria Eduarda Marques, tenho 19 anos e sou Técnica em Informática para Internet formada pelo IFPE. Atuo no desenvolvimento de software e na criação de soluções eficientes para a web, com foco em interfaces modernas, funcionais e responsivas. Tenho experiência prática no desenvolvimento de projetos que envolvem desde a construção de layouts otimizados, até a estruturação de infraestrutura, banco de dados, integrações com Inteligência Artificial e Visão Computacional. Busco minha primeira oportunidade profissional para aplicar meus conhecimentos em cenários reais e continuar evoluindo na área de tecnologia.
 
@@ -8,7 +8,7 @@ Me chamo Maria Eduarda Marques, tenho 19 anos e sou Técnica em Informática par
 
 ### 📫 Contato
 
-<a href="https://www.linkedin.com/in/maria-eduarda-marques">
+<a href="https://www.linkedin.com/in/maria-eduarda-marques-869a68392/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:eduardamarquessilva503@gmail.com">
